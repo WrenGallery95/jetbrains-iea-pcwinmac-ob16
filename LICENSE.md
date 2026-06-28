@@ -1,4 +1,4 @@
-# 
+# آمن JetBrains IntelliJ IDEA إعدادات مسبقة لـ Mac OS | رسمي JetBrains IntelliJ IDEA إعدادات مسبقة لـ PC Windows. مع التنقل في الكود و مصحح الأخطاء — مُحسَّن لأقصى أداء على جميع المنصات.
 
 
 
